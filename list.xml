@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+	<channel>
+    <name>[COLOR=green]-----[/COLOR][COLOR=orange]► C A N A L E S  -  M E X I C O [COLOR gray] Locales : El Canal de las estrellas • Canal 5 • Azteca 7 • Azteca 13 • Foro TV • Gala TV • Teleformula  [/COLOR][/COLOR][COLOR=green]-----[/COLOR]</name>
+    <thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail>
+    <fanart>http://i.imgur.com/UAQY3DI.jpg</fanart>
+        <items>
+        
+        <item>
+			<title>Canal de las Estrellas (HD) </title>
+			<link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8</link>
+			
+			<thumbnail></thumbnail>
+			</item>
+			<item>
+			<title>Canal de las Estrellas (SD) </title>
+			<link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8</link>
+			
+			<thumbnail></thumbnail>
+			</item>
+			
+		<item>
+			<title>Canal de las Estrellas (LQ) </title>
+			<link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8</link>
+			
+			<thumbnail></thumbnail>
+			</item>
+			
+					<item>
+			<title>Canal de las Estrellas -2hrs</title>
+			<link>http://198.199.105.26:8081/live/sky83/Estrellas-2/chunks.m3u8?</link>
+			
+			<thumbnail></thumbnail>
+			</item>
